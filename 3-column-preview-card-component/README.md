@@ -24,8 +24,8 @@ Users should be able to:
 
 ## Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/thantko20/FrontEndMentorProjects/tree/main/3-column-preview-card-component](Github URL)
+- Live Site URL: [https://codepen.io/thantko20/pen/rNmrOQb](https://codepen.io/thantko20/pen/rNmrOQb)
 
 ## Built with
 
