@@ -25,7 +25,7 @@ Users should be able to:
 ## Links
 
 - Solution URL: [https://github.com/thantko20/FrontEndMentorProjects/tree/main/3-column-preview-card-component](Github URL)
-- Live Site URL: [https://codepen.io/thantko20/pen/rNmrOQb](https://codepen.io/thantko20/pen/rNmrOQb)
+- Live Site URL: [https://thantko20.github.io/FrontEndMentorProjects/3-column-preview-card-component/](https://thantko20.github.io/FrontEndMentorProjects/3-column-preview-card-component/)
 
 ## Built with
 
